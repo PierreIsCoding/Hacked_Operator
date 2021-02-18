@@ -6,7 +6,7 @@ This project helps you to "hack" your own Pocket Operator for using it in your M
 Please be careful because you can distroy your Pocket Operator and know that is totally on you own risk ! 
 
 ## Tips
-- The Operator runs on two 1.5V batteries or 3V (or 3.3V). To keep things simple I have used a ready made converter between my +5V Eurorack and the battery clips. Google for "5 volt to 3.3 volt converter" and you will find many options from cheap suppliers. 
+- The Operator runs normally on two 1.5V batteries or 3V (or 3.3V), but we want to run it on your synth +5V power supply (assuming your supply has 5V). To keep things simple I have used a ready made converter between my +5V Eurorack and the battery clips. Google for "5 volt to 3.3 volt converter" and you will find many options from cheap suppliers. 
 - Don't forget to solder the converter's power and ground to the battery pins. Look at the photo's for this. I would strongly advice to use a continuity tester beforehand to check if you solder the correct pad.
 - The Pocket Operator senses with its female stereo jacks if a male jack is plugged in or not. Since we don't insert any cables we need to trick the Operator. Use wooden tooth picks for both female jacks and play a bit until you feel it pushes the inner spring. See also photos
 - You have to solder wires to the female jacks tip and ground pins. It is however a bit difficult to see to what pad you have to solder. I would strongly advice to use a continuity tester between all the pads and an inserted stereo cable to see what is what.
