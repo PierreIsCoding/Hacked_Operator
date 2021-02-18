@@ -1,5 +1,5 @@
 # Hacked_Operator
-This project helps you to "hack" your own Pocket Operator. However it requires a little bit of checking and hacking on your own behalf. I only tested the PO-20 (Arcade) but I am quite sure all the others will work the same way. Please check the pdf and images for info. I have also added stl files for your 3D printing.
+This project helps you to "hack" your own Pocket Operator for using it in your Modular Synthesiser. However it requires a little bit of checking and hacking on your own behalf. I only tested the PO-20 (Arcade) but I am quite sure all the others will work the same way. Please check the pdf and images for info. I have also added stl files for your 3D printing.
 
 
 ## Disclaimer
